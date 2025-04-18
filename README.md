@@ -15,3 +15,20 @@ This repo is about clarity — understanding how data is stored, accessed, and s
 - Reinforce computer science foundations (with testable proof)  
 - Build a long-term reference that I control and understand  
 - Leave behind something others can trace, if they choose to follow
+- 
+---
+
+## Structures To Be Implemented
+
+These are the core structures I plan to build and understand — not through shortcuts, but through direct implementation.
+
+- [ ] Singly Linked List
+- [ ] Doubly Linked List
+- [ ] Stack (Array-based)
+- [ ] Stack (Linked List-based)
+- [ ] Queue (Array-based)
+- [ ] Queue (Linked List-based)
+- [ ] Hash Table
+- [ ] Binary Search Tree
+- [ ] Min Heap / Max Heap
+- [ ] Graph (Adjacency List)
